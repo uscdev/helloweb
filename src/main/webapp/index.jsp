@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Goodbye Sweet World!</h2>
+<h2>Goodbye World!</h2>
 </body>
 </html>
