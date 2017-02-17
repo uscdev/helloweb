@@ -4,7 +4,7 @@
     <groupId>edu.usc.hello-web</groupId>
     <artifactId>helloweb</artifactId>
     <packaging>war</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>HelloWeb Maven Webapp</name>
     <url>http://maven.apache.org</url>
     
@@ -28,7 +28,7 @@
         <url>https://github.com/usc-its/helloweb</url>
         <connection>scm:git:https://github.com/usc-its/helloweb</connection>
         <developerConnection>scm:git:https://github.com/usc-its/helloweb</developerConnection>
-      <tag>helloweb-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
